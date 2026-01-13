@@ -1,4 +1,5 @@
 STARFM
+
 Implementation of the **Spatial and Temporal Adaptive Reflectance Fusion Model (STARFM)** using R / RStudio.  
 This project aims to fuse high-spatial-resolution and high-temporal-resolution remote sensing imagery to generate enhanced reflectance products.
 
